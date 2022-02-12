@@ -18,3 +18,7 @@ This is the code for the paper "**ABAE: Utilize Attention to Boost Graph Auto-En
 Our architecture has achieved state-of-the-art in *Link Prediction*. Total comparance is given.
 
 ![image-20210610103103064](https://i.loli.net/2021/06/10/6VUGZFHD2Jbxhmo.png)
+
+### Citation
+Cite this paper as:
+Liu T., Li Y., Sun Y., Cui L., Bai L. (2021) ABAE: Utilize Attention to Boost Graph Auto-Encoder. In: Pham D.N., Theeramunkong T., Governatori G., Liu F. (eds) PRICAI 2021: Trends in Artificial Intelligence. PRICAI 2021. Lecture Notes in Computer Science, vol 13032. Springer, Cham. https://doi.org/10.1007/978-3-030-89363-7_26
