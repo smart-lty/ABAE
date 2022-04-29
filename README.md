@@ -4,14 +4,14 @@ This is the code for the paper "**ABAE: Utilize Attention to Boost Graph Auto-En
 
 ![](https://i.loli.net/2021/06/10/exbZRm5M1iP2Fk8.png)
 
-### Dependencies
+### Environment
+1. Create an environment `conda create -n ABAE python=3.7`  `conda activate ABAE`
+2. Install relative packages. Please see requirements.txt for a whole view.
 
-- Python 3.7+
-- Pytorch 1.7.0+
-- Numpy 1.17.2+
-- tqdm 4.41.1+
-
-
+### Reproduce
+Readers can reproduce the results reported in the paper. There is two steps:
+1. Change the hyperparameters by changing the `config.py` file.
+2. Run `python main.py` to start training.
 
 ### Results
 
